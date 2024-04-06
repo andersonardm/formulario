@@ -20,7 +20,7 @@ export default function Profile(){
                 <Text style={styles.titlebox}> BEM VINDO! </Text>
                 <Text style={styles.titlebox}> {username} </Text> 
                 <View style={styles.dados}>
-                    <Text style={styles.text}> Dados:</Text>
+                    <Text style={styles.text}> Dados: </Text>
                     <Text style={styles.text}> 1. Seu nome é {nome}! </Text>
                     <Text style={styles.text}> 2. Seu email é {email}! </Text>
                     <Text style={styles.text}> 3. Sua idade é {idade}! </Text>
